@@ -10981,7 +10981,6 @@
   <block id="6d8cd87a85946daeae42cb54aade3baa" category="section-title">Passo 1: Baixe ISO ou OVA e implante a VM</block>
   <block id="90c4d8ddd76d9f5f86c144316cec5657" category="paragraph">Transfira a ISO ou OVA adequada a partir do site de suporte da NetApp e instale a VM.</block>
   <block id="12b8893b065179b6b80fdc2d448862df" category="inline-link-macro">Software Element</block>
-  <block id="4aee9657f267c579c49541b5f19ca32c" category="list-text">Transfira a OVA ou ISO para a sua instalação a partir da <block ref="00b11b6abe7f0003872aa657422c59ae" category="inline-link-macro-rx"></block>página no site de suporte da NetApp. O novo OVA contém um certificado SSL atualizado.</block>
   <block id="7b4b2bec7b806d58982537647a92deef" category="list-text">Selecione *Download Latest Release* e aceite o EULA.</block>
   <block id="9fd5f1f79bb7ead4a7bdb1a4e6b94825" category="list-text">Selecione a imagem do nó de gestão que pretende transferir.</block>
   <block id="b8ccf40afa6e3a195a8f4d93c8daa17d" category="list-text">Se você baixou o OVA, siga estas etapas:</block>
@@ -12303,4 +12302,5 @@
   <block id="bc0ffe4508f685d32386d4fcd929dd50" category="list-text">"HH:mm:ss"</block>
   <block id="99eb6e1c13e9ae0bb02e022566f20121" category="paragraph">Inclui o nome exclusivo dado ao agendamento, o período de retenção do instantâneo criado e o ID do volume do volume a partir do qual o instantâneo foi criado. Valores válidos:</block>
   <block id="65dc2083558f47cd1151751a12c24549" category="paragraph">flutuante ou inteiro dependendo do tipo de operação de sincronização</block>
+  <block id="e43f2538484fde027e53efbedb634fce" category="list-text">Transfira a OVA ou ISO para a sua instalação a partir da <block ref="00b11b6abe7f0003872aa657422c59ae" category="inline-link-macro-rx"></block>página no site de suporte da NetApp.</block>
 </blocks>
