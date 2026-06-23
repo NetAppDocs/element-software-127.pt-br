@@ -15,8 +15,8 @@ A segurança está se tornando cada vez mais crítica para a implantação de so
 
 * link:task_system_manage_fips_avoid_mixing_nodes_for_fips_drives.html["Evite misturar nós para unidades FIPS"]
 * link:task_system_manage_fips_enable_encryption_at_rest.html["Ative a criptografia em repouso"]
-* link:task_system_manage_fips_identify_nodes_ready_for_fips_drives["Identificar se os nós estão prontos para o recurso unidades FIPS"]
+* link:task_system_manage_fips_identify_nodes_ready_for_fips_drives.html["Identificar se os nós estão prontos para o recurso unidades FIPS"]
 * link:task_system_manage_fips_enable_the_fips_drives_feature.html["Ative o recurso unidades FIPS"]
 * link:task_system_manage_fips_check_the_fips_drive_status.html["Verifique o status da unidade FIPS"]
-* link:task_system_manage_fips_troubleshoot_the_fips_drive_feature["Solucionar problemas do recurso da unidade FIPS"]
+* link:task_system_manage_fips_troubleshoot_the_fips_drive_feature.html["Solucionar problemas do recurso da unidade FIPS"]
 

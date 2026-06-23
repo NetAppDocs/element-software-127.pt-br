@@ -14,7 +14,7 @@ summary: 'Você pode usar o método EnableEncryptionAtRest para habilitar a crip
 Você pode usar o `EnableEncryptionAtRest` método para ativar a criptografia AES (Advanced Encryption Standard) de 256 bits em repouso no cluster para que o cluster possa gerenciar a chave de criptografia usada para as unidades em cada nó. Esta funcionalidade não está ativada por predefinição.
 
 
-TIP: Para ver o status atual da criptografia em repouso e/ou criptografia de software em repouso no cluster, use o link:../api/reference_element_api_getclusterinfo["obtenha o método de informações do cluster"^]. Pode utilizar a `GetSoftwareEncryptionAtRestInfo` link:../api/reference_element_api_getsoftwareencryptionatrestinfo["método para obter informações que o cluster usa para criptografar dados em repouso"^].
+TIP: Para ver o status atual da criptografia em repouso e/ou criptografia de software em repouso no cluster, use o link:../api/reference_element_api_getclusterinfo.html["obtenha o método de informações do cluster"^]. Pode utilizar a `GetSoftwareEncryptionAtRestInfo` link:../api/reference_element_api_getsoftwareencryptionatrestinfo.html["método para obter informações que o cluster usa para criptografar dados em repouso"^].
 
 
 NOTE: Este método não ativa a encriptação de software em repouso. Isso só pode ser feito usando o link:../api/reference_element_api_createcluster.html["criar método de cluster"^] com `enableSoftwareEncryptionAtRest` definido como `true`.

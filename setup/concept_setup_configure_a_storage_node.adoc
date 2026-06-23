@@ -44,7 +44,7 @@ IMPORTANT: Você deve configurar as interfaces de gerenciamento (Bond1G) e armaz
 .Passos
 . Em uma janela do navegador, insira o endereço IP DHCP de um nó.
 +
-Você deve adicionar a extensão `:442` para acessar o nó; por exemplo https://172.25.103.6:442[], .
+Você deve adicionar a extensão  `:442` para acessar o nó; por exemplo,  `\https://172.25.103.6:442`.
 
 +
 A guia *Configurações de rede* é aberta com a seção *Bond1G*.
