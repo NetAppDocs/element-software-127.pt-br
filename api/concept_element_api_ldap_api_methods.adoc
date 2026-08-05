@@ -22,6 +22,7 @@ Você pode usar o LDAP (Lightweight Directory Access Protocol) para autenticar o
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

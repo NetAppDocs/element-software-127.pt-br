@@ -14,7 +14,11 @@ summary: Os métodos da API Element disponíveis variam de acordo com o tipo de 
 Os métodos da API Element disponíveis variam de acordo com o tipo de acesso definido.
 
 
+NOTE: Existem tipos de acesso disponíveis através da API que não estão disponíveis na interface do usuário do Element.
 
+
+
+[[accounts]]
 == contas
 
 Os seguintes métodos estão disponíveis para o tipo de acesso de contas:
@@ -58,12 +62,14 @@ Contagem remota
 |===
 
 
+[[administrator]]
 == administrador
 
 Todos os métodos estão disponíveis para o tipo de acesso do administrador.
 
 
 
+[[clusteradmin]]
 == Administrador exclusivo
 
 Os seguintes métodos estão disponíveis para o tipo de acesso de administrador do cluster:
@@ -461,6 +467,7 @@ GetVirtualNetwork
 |===
 
 
+[[drives]]
 == unidades
 
 Os seguintes métodos estão disponíveis para o tipo de acesso das unidades:
@@ -489,6 +496,7 @@ SecureEraseDrives
 |===
 
 
+[[nodes]]
 == nós
 
 Os seguintes métodos estão disponíveis para o tipo de acesso dos nós:
@@ -517,6 +525,7 @@ RemovesNodes
 |===
 
 
+[[read]]
 == leia
 
 Os seguintes métodos estão disponíveis para o tipo de acesso de leitura:
@@ -660,6 +669,7 @@ ListBackupTargets
 |===
 
 
+[[reporting]]
 == relatórios
 
 Os seguintes métodos estão disponíveis para o tipo de acesso de relatório:
@@ -818,12 +828,14 @@ ListVolumeStatsByVolumeAccessGroup
 |===
 
 
+[[repositories]]
 == repositórios
 
 O método ListAllNodes está disponível para o tipo de acesso dos repositórios.
 
 
 
+[[volumes]]
 == volumes
 
 Os seguintes métodos estão disponíveis para o tipo de acesso volumes:
@@ -997,6 +1009,7 @@ UpdateBulkVolumeStatus
 |===
 
 
+[[write]]
 == escreva
 
 Os seguintes métodos estão disponíveis para o tipo de acesso de gravação:
@@ -1108,3 +1121,5 @@ GetAsyncResult
 RemoveDrives
 
 |===
+.Informações relacionadas
+link:../storage/concept_system_manage_manage_cluster_administrator_users.html#view-cluster-admin-details["Saiba mais sobre os tipos de acesso disponíveis na interface do usuário do Element"]

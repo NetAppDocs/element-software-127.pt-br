@@ -20,6 +20,7 @@ Tarefas que você pode executar com APIs REST:
 
 
 
+[[authorization]]
 == Autorização
 
 * link:task_mnode_api_get_authorizationtouse.html["Obter autorização para usar APIs REST"]
@@ -27,6 +28,7 @@ Tarefas que você pode executar com APIs REST:
 
 
 
+[[asset-configuration]]
 == Configuração de ativos
 
 * link:task_mnode_enable_activeIQ.html["Ative o monitoramento Active IQ e NetApp"]
@@ -38,11 +40,12 @@ Tarefas que você pode executar com APIs REST:
 
 
 
+[[asset-management]]
 == Gerenciamento de ativos
 
 * link:task_mnode_edit_vcenter_assets.html["Visualizar ou editar ativos de controlador existentes"]
 * link:task_mnode_manage_storage_cluster_assets.html["Criar e gerenciar ativos de cluster de storage"]
-* link:../hccstorage/task-hcc-collectlogs.html#use-the-rest-api-to-collect-netapp-hci-logs["Use a API REST para coletar logs do sistema Element"]
+* link:../hccstorage/task-hcc-collectlogs.html#use-the-rest-api-to-collect-logs["Use a API REST para coletar logs do sistema Element"]
 * link:task_mnode_api_find_mgmt_svcs_version.html["Verifique as versões do SO e dos serviços do nó de gerenciamento"]
 * link:task_mnode_logs.html["Obtendo logs de serviços de gerenciamento"]
 

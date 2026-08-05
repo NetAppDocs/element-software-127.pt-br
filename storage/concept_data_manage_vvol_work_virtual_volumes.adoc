@@ -27,6 +27,7 @@ NOTE: O suporte DO VASA para vários vCenters está disponível como um patch de
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * xref:task_data_manage_vvol_enable_virtual_volumes.adoc[Ativar volumes virtuais]

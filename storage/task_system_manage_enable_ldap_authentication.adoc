@@ -61,6 +61,7 @@ Para testar isso, faça logout da IU do Element e faça login novamente como um 
 
 
 
+[[related-information]]
 == Informações relacionadas
 
 * link:concept_system_manage_manage_cluster_administrator_users.html#create_cluster_admin_account["Crie uma conta de administrador de cluster"]

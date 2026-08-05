@@ -33,6 +33,7 @@ Você pode configurar configurações como limite de preenchimento de cluster, a
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

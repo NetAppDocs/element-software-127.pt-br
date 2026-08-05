@@ -20,6 +20,7 @@ Você pode gerenciar os dados em um cluster executando o software Element na gui
 
 
 
+[[for-more-information]]
 == Para mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

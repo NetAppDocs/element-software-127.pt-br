@@ -24,6 +24,7 @@ Métodos comuns são métodos usados para recuperar informações sobre o cluste
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

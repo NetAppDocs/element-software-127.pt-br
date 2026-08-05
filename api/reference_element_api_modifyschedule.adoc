@@ -15,6 +15,7 @@ Você pode usar `ModifySchedule` para alterar os intervalos em que ocorre um ins
 
 
 
+[[parameters]]
 == Parâmetros
 
 Este método tem os seguintes parâmetros de entrada:
@@ -273,6 +274,7 @@ Não
 |===
 
 
+[[return-value]]
 == Valor de retorno
 
 Este método tem o seguinte valor de retorno:
@@ -293,6 +295,7 @@ xref:reference_element_api_schedule.adoc[programação]
 |===
 
 
+[[request-example]]
 == Exemplo de solicitação
 
 [listing]
@@ -308,6 +311,7 @@ xref:reference_element_api_schedule.adoc[programação]
 ----
 
 
+[[response-example]]
 == Exemplo de resposta
 
 [listing]
@@ -348,6 +352,7 @@ xref:reference_element_api_schedule.adoc[programação]
 ----
 
 
+[[new-since-version]]
 == Novo desde a versão
 
 9,6

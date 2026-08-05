@@ -27,6 +27,7 @@ NOTE: A chave de emparelhamento de volume contém uma versão encriptada das inf
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * xref:task_replication_pair_volumes_using_a_volume_id.adoc[Emparelhe volumes usando um ID de volume]

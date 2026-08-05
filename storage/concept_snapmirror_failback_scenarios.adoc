@@ -28,6 +28,7 @@ image::../media/snapmirror_element_failback2.png[elemento SnapMirror failback2]
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * xref:task_snapmirror_perform_failback_when_source_volume_exists.adoc[Execute um failback quando o volume de origem ainda existir]

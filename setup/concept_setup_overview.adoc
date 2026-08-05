@@ -30,6 +30,7 @@ image::../media/sf_and_element_workflow_for_setup_shorter_workflow.png[Configure
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * link:../setup/concept_setup_whats_next.html["Descubra os próximos passos para utilizar o armazenamento"]

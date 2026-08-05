@@ -36,6 +36,7 @@ Com o Element Plug-in para vCenter Server 4.x, quando você atualiza para o VMwa
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

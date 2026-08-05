@@ -68,6 +68,7 @@ Você pode usar métodos de API de nó para configurar nós individuais. Esses m
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

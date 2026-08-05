@@ -20,6 +20,7 @@ Saiba mais sobre a instalação e manutenção de hardware da série H e da sér
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

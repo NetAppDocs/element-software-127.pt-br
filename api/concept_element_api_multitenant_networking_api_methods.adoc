@@ -17,6 +17,7 @@ As conexões com o cluster de armazenamento são segregadas na pilha de rede atr
 
 
 
+[[prerequisites-for-setting-up-a-multitenant-virtual-network]]
 == Pré-requisitos para configurar uma rede virtual multitenant
 
 * Você deve ter identificado o bloco de endereços IP de rede cliente a ser atribuído às redes virtuais nos nós de storage.
@@ -25,6 +26,7 @@ As conexões com o cluster de armazenamento são segregadas na pilha de rede atr
 
 
 
+[[virtual-networking-order-of-operations]]
 == Ordem de operações de rede virtual
 
 . Use o método AddVirtualNetwork para provisionar em massa os endereços IP inseridos.
@@ -42,6 +44,7 @@ Depois de adicionar uma rede virtual, o cluster executa automaticamente as segui
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * xref:concept_element_api_virtual_network_naming_conventions.adoc[Convenções de nomenclatura de rede virtual]

@@ -20,6 +20,7 @@ Você pode usar esses métodos de API para criar um cluster de armazenamento. To
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

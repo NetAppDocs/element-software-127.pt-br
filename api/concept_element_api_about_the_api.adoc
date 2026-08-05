@@ -33,6 +33,7 @@ NOTE: Quando o cluster de armazenamento é carregado fortemente ou você envia m
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

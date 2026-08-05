@@ -25,6 +25,7 @@ Você pode configurar um cluster com nós Fibre Channel e gerenciá-lo usando o 
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

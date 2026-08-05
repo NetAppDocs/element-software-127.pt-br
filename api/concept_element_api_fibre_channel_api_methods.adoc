@@ -22,6 +22,7 @@ Você pode usar os métodos de API Fibre Channel para adicionar, modificar ou re
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

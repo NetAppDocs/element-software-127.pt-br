@@ -15,6 +15,7 @@ Você pode gerenciar contas de administrador de cluster para um sistema de armaz
 
 
 
+[[storage-cluster-administrator-account-types]]
 == Tipos de conta de administrador de cluster de storage
 
 Existem dois tipos de contas de administrador que podem existir em um cluster de storage que executa o software NetApp Element: A conta de administrador de cluster principal e uma conta de administrador de cluster.
@@ -34,6 +35,7 @@ NOTE: É necessária uma conta de administrador de cluster local (não LDAP) par
 
 
 
+[[view-cluster-admin-details]]
 == Exibir detalhes do administrador do cluster
 
 . Para criar uma conta de administrador de cluster (não LDAP) em todo o cluster, execute as seguintes ações:
@@ -61,9 +63,13 @@ NOTE: É necessária uma conta de administrador de cluster local (não LDAP) par
 
 
 +
+[NOTE]
+====
+Todas as permissões estão disponíveis para o tipo de acesso do administrador.
 
-NOTE: Todas as permissões estão disponíveis para o tipo de acesso do administrador.
+Existem tipos de acesso disponíveis através da API que não estão disponíveis na interface do usuário do Element.
 
+====
 +
 ** *Type*: O tipo de administrador de cluster. Valores possíveis:
 +
@@ -81,6 +87,8 @@ link:../api/index.html["Referência da API do software NetApp Element"]Consulte 
 
 
 
+[[create-a-cluster-administrator-account]]
+[[create_cluster_admin_account]]
 == Crie uma conta de administrador de cluster
 
 Você pode criar novas contas de administrador de cluster com permissões para permitir ou restringir o acesso a áreas específicas do sistema de armazenamento. Ao definir permissões de conta de administrador de cluster, o sistema concede direitos somente de leitura para quaisquer permissões que você não atribua ao administrador do cluster.
@@ -128,6 +136,7 @@ Para adicionar usuários ou grupos de administrador de cluster LDAP, o formato g
 
 
 
+[[edit-cluster-administrator-permissions]]
 == Editar permissões de administrador do cluster
 
 Você pode alterar o Privileges da conta de administrador do cluster para geração de relatórios, nós, unidades, volumes, contas e acesso em nível de cluster. Quando você ativa uma permissão, o sistema atribui acesso de gravação para esse nível. O sistema concede ao usuário administrador acesso somente leitura para os níveis que você não selecionou.
@@ -141,6 +150,7 @@ Você pode alterar o Privileges da conta de administrador do cluster para geraç
 
 
 
+[[change-passwords-for-cluster-administrator-accounts]]
 == Alterar senhas para contas de administrador de cluster
 
 Você pode usar a IU do elemento para alterar as senhas do administrador do cluster.
@@ -152,12 +162,9 @@ Você pode usar a IU do elemento para alterar as senhas do administrador do clus
 . Clique em *Salvar alterações*.
 
 
-
-
-== Encontre mais informações
-
+.Informações relacionadas
+* link:../api/reference_element_api_app_b_access_control.html["Saiba mais sobre os tipos de acesso disponíveis para as APIs do Element"]
 * link:task_system_manage_enable_ldap_authentication.html["Ative a autenticação LDAP com a interface do usuário Element"]
 * link:concept_system_manage_manage_ldap.html["Desativar LDAP"]
-* https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
 

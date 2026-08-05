@@ -24,6 +24,7 @@ Você pode configurar um cluster com nós de storage e gerenciá-lo usando o sof
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

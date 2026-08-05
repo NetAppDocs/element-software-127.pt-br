@@ -29,6 +29,7 @@ Os métodos de API de replicação permitem conectar dois clusters para proteç�
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

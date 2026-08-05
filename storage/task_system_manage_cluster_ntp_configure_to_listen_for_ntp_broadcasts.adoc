@@ -28,6 +28,7 @@ Usando o modo de broadcast, você pode instruir cada nó em um cluster para ouvi
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

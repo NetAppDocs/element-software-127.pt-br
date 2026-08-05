@@ -35,6 +35,7 @@ Você deve ter o administrador de cluster Privileges para configurar essa config
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]

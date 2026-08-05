@@ -34,6 +34,7 @@ NOTE: Este processo é assíncrono e retorna uma resposta antes de a criptografi
 
 
 
+[[parameters]]
 == Parâmetros
 
 Este método tem os seguintes parâmetros de entrada:
@@ -56,12 +57,14 @@ Não
 |===
 
 
+[[return-values]]
 == Valores de retorno
 
 Este método não tem valores de retorno.
 
 
 
+[[request-example]]
 == Exemplo de solicitação
 
 As solicitações para este método são semelhantes ao seguinte exemplo:
@@ -76,6 +79,7 @@ As solicitações para este método são semelhantes ao seguinte exemplo:
 ----
 
 
+[[response-examples]]
 == Exemplos de resposta
 
 Este método retorna uma resposta semelhante ao exemplo a seguir do método EnableEncryptionAtRest. Não há nenhum resultado para relatar.
@@ -115,6 +119,7 @@ Enquanto a criptografia em repouso está sendo ativada em um cluster, GetCluster
 ----
 
 
+[[new-since-version]]
 == Novo desde a versão
 
 9,6

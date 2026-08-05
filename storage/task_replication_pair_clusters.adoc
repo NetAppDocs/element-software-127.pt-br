@@ -28,6 +28,7 @@ NOTE: O emparelhamento de cluster requer conetividade total entre nós na rede d
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 xref:reference_prereq_network_port_requirements.adoc[Requisitos de porta de rede]

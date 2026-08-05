@@ -24,6 +24,7 @@ Aqui estão os links para o conteúdo de instalação e manutenção:
 
 
 
+[[find-more-information]]
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentação do software SolidFire e Element"]
